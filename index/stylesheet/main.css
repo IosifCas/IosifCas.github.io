@@ -1,0 +1,24 @@
+/*Practice project*/
+body{
+    background-color: rgb(198, 209, 209);
+}
+
+th{
+    text-align: center;
+    font-family: cursive;
+    font-size: xx-large;
+}
+
+table{
+    margin: 10px;
+}
+
+ul{
+    font-size: inherit;
+    font-family: sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+}
